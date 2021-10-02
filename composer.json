@@ -30,7 +30,7 @@
     "elasticsearch/elasticsearch": "^7.3",
     "monolog/monolog": "^2.1",
 
-    "endclothing/prometheus_client_php": "^1.0"
+    "promphp/prometheus_client_php": "^2.2"
   },
   "require-dev": {
     "ext-xdebug": "*",
@@ -45,7 +45,7 @@
     "phpunit/phpunit": "^9.2",
     "mockery/mockery": "^1.4",
 
-    "fzaninotto/faker": "^1.9",
+    "fzaninotto/faker": "dev-master",
 
     "symfony/debug": "^4.4",
     "vimeo/psalm": "^4.1"
